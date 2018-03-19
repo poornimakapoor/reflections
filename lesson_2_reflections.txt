@@ -1,7 +1,17 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+ans.  when we initialize a repo:
+git init < repo name>   
+git starts tracking that repo and all the commits made are stored.
+we need a repository to store all  the files related to a project and keep track of the changes made to it by time.
+To keep all  the versions of the file and revert back to any when needed.
+It also makes it easy to share all the commits etc. to another person all at once.
+--------------------------------------------------------------------------------------------------------------------------
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+ans.   staging area defines the where which 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
