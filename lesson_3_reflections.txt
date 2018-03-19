@@ -6,7 +6,8 @@ ans.   to backup everything remotely, when i want it to be accessible by other p
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+ans.   because in case multiple people are editting the same repo we may want to get the desired or updated version of the repo.
+for this  changes should manually be pulled.  
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
